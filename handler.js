@@ -543,11 +543,11 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-                kagura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6288292024190 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/Cakhaho\n⭔ Saweria : https://saweria.co/DikaArdnt` }, { quoted: m })
+                kagura.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/74fd634010128be37972c.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6285876810596 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://www.paypal.me/RizkiWTF\n⭔ Saweria : https://saweria.co/RizkiMaa` }, { quoted: m })
             }
             break
             case 'sc': {
-                m.reply('*Script Bot :*\nhttps://youtu.be/tbWY5hncgwc')
+                m.reply('*Script Bot :*\nhttps://github.com/carisendiri')
             }
             break
 
@@ -3067,7 +3067,7 @@ Saya *${botname}*, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 ──────────────
   _> *INFO BOT*_
-👑 Creator : *Lexxy Official*
+👑 Creator : *Rizki Muhammad Adam*
 👤 Owner : *${ownername}*
 🤖 Bot Name : *${botname}*
 📑 Tanggal : *${tanggal}*
@@ -3343,17 +3343,17 @@ Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'Source Code',
-                                    url: 'https://github.com/Lexxy24/KaguraMD'
+                                    displayText: '💾Source Code',
+                                    url: 'https://github.com/carisendiri'
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 822-7991-5237'
+                                    displayText: '☎️Number Phone Owner',
+                                    phoneNumber: '+62 858-7681-0596'
                                 }
                             },{
                                 quickReplyButton: {
-                                    displayText: 'Status Bot',
+                                    displayText: '📱Status Bot',
                                     id: 'ping'
                                 }
                             }, {
